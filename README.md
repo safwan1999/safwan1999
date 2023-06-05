@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @safwan1999
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Software Engineer at Universiti Malaysia Sabah
+- 👀 I’m interested in Data Analytics & Machine Learning
+- 🌱 I’m currently pursuing a degree in Software Engineer at Universiti Malaysia Sabah, Malaysia
 - 📫 You can reach me by my email (muhdnorsafwan1999@gmail.com)
 
 <!---
